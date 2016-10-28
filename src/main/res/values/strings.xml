@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IFAA Market App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_compass">Map</string>
+    <string name="title_activity_artist">Artists</string>
+    <string name="title_activity_search">Search</string>
+    <string name="title_activity_cart">Cart</string>
+</resources>

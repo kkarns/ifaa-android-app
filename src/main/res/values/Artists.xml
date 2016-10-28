@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="artists">
+        <item>Abdul Tawana</item>
+        <item>Abdulaziz Alimamad Khatri</item>
+        <item>Abduljabbar Mahmadhushen Khatri and Abdullah Mohmedhussain Khatri</item>
+        <item>Abi Gul and Begum Bibi, Maimoona Ijlal</item>
+        <item>Abror Kudratov</item>
+        <item>Abubakr Bekmuhamedov</item>
+        <item>Agustín Cruz Prudencio and Agustín Cruz Tinoco</item>
+        <item>Aigul Zhanserikova</item>
+        <item>Akeem Ayanniyi</item>
+        <item>Alberto de Betolaza (Artists: Mario Calderón, Lilia Breyter, Marco Paillamilla)</item>
+        <item>Amalia Gue</item>
+        <item>Amina Yabis</item>
+        <item>Amna Shariff</item>
+        <item>Ana Maria de Prado Peironi</item>
+        <item>Andrea Usai</item>
+        <item>Angeline Masuku and Beauty Bathembile Ngxongo</item>
+        <item>Ani, Herlina, Dinoh, Ida, Milo and Leokrita Diana</item>
+        <item>Anna India Dela Cruz-Legaspi, Bernadeth Ofong, and Myla Abalang Carcasona, Kalinga, Pala’wan and Yakan Tribes</item>
+        <item>Anna India Dela Cruz-Legaspi, Bernadeth Ofong, and Myla Abalang Carcasona, Kalinga, Pala’wan and Yakan Tribes</item>
+        <item>Aroti Rani</item>
+        <item>Artists of the ROOTS Project</item>
+        <item>Aurora Rodriguez de Caura</item>
+        <item>Bakhtiyor Kasimov</item>
+        <item>Baldev Baghmare</item>
+        <item>Bani Mondal and Animesh Mondal</item>
+        <item>Ben Zion David</item>
+        <item>Bernardo Pedro González Paucar and Marcelino Javier Gonzales</item>
+        <item>Best of the Best</item>
+        <item>Blaise Cayol</item>
+        <item>Camurdino Mustafa Jetha</item>
+        <item>Carlos Alberto Clavelli Fernandez</item>
+        <item>Carlos Caceres Valladares, Cenia Gutiérrez Alfonso, Nancy Reyes Suarez, and Roberto Gil Esteban</item>
+        <item>Catalina Delgado-Trunk</item>
+        <item>Chantha Nguon</item>
+        <item>Dahyalal Kudecha</item>
+        <item>Daniel Paredes Cruz</item>
+        <item>Delia Garcia Inga</item>
+        <item>Dharmendra Soni</item>
+        <item>Dinara Chochunbaeva</item>
+        <item>Ebenezer Nomoda Djaba</item>
+        <item>Edgar Oswaldo Perén Tubín</item>
+        <item>Edric Ong</item>
+        <item>Elhadji Mohamed Koumama and Ismael Elhadji Mohamed</item>
+        <item>Etsha Weavers Group and Kuru Art Project</item>
+        <item>Fang Yang</item>
+        <item>Farkhod Ramazonov and Mukhabbat Kuchkoraova</item>
+        <item>Fattillo Kendjaev and Firuza Khamraeva</item>
+        <item>François Fresnais</item>
+        <item>Gasali Adeyemo</item>
+        <item>Ghulam Sarwar, Irfan Abdul Aziz</item>
+        <item>Guadalupe Hermosillo Escobar</item>
+        <item>Gwaai Edenshaw</item>
+        <item>Hamdi Natsheh, Tawfiq Natsheh, Hamzeh Natsheh</item>
+        <item>Hilda Valeriana Cachi Yupanqui and Sonia Cachi Yupanqui</item>
+        <item>Ida Bagus Anom Suryawan</item>
+        <item>Ikbol Sokhibov</item>
+        <item>Ilya Kazakov</item>
+        <item>Izzatillo Ruziev</item>
+        <item>J. Ruben Lopez Cruz, Mariano Valadez Navarro, and Rafael Cilau Valadez</item>
+        <item>Jabulile Nala</item>
+        <item>Janmamad Salemamad Luhar, Pokhar Mal and Kailash Kanwar</item>
+        <item>Jessica López Felipe and Juana Reyes Garcia</item>
+        <item>Jose German Punzo Nuñez, Ignacio Punzo Angel, Jose Rosaldo Punzo Nuñez, Ignacio Gabriel Punzo Nuñez</item>
+        <item>Josnel Bruno</item>
+        <item>José Andres Acuña</item>
+        <item>José García Antonio and family</item>
+        <item>Juned Ismail Khatri and Sufiyan Khatri</item>
+        <item>Kadyrkul Sharshembieva, Nazira Dairova, Farzana Sharshembieva, Abay Inoyatov</item>
+        <item>Kalsang Tashi</item>
+        <item>Karim Oukid Ouksel</item>
+        <item>Khin Maung Htwe, Tin Tin OO, Than Than Naing</item>
+        <item>Leki Wangmo, Rinzin Wangmo, and Sonam Chhoewang</item>
+        <item>Levente Süto</item>
+        <item>Lhoucine Taous</item>
+        <item>Lider Rivera Matos</item>
+        <item>Lina Barrios</item>
+        <item>Luis Méndez López</item>
+        <item>Luis Rodriguez Ricardo and Luis Joaquin Rodriguez Arias</item>
+        <item>Lulama Sihlabeni</item>
+        <item>Ly Ta May</item>
+        <item>Macrina Mateo Martínez</item>
+        <item>Magdalena Pedro Martínez and Olegario Hernandez</item>
+        <item>Malam Jamilu</item>
+        <item>Mamta Varma and Rama Singh</item>
+        <item>Manisha Mishra</item>
+        <item>Manjari Nirula</item>
+        <item>Margarita Garcia de Jesús, Antonia Brigida Guerrero Santa Ana</item>
+        <item>Margarita Gonzalez Flores, Maria Juana Hernández Hernández, Alicia Molina Vazquez, Maria del Belem Segura Aguilar, Eustaquia Gomez</item>
+        <item>Maria Goreti Ut and Jacky Ximenes</item>
+        <item>Marie Rasoantenaina</item>
+        <item>Meeri Tuya</item>
+        <item>Mikio Toki</item>
+        <item>Mohamed El Maouloud Ag Hamid</item>
+        <item>Mukhayyo Aliyeva</item>
+        <item>Naama Al Sana and Hasan Sana</item>
+        <item>Nasrullah</item>
+        <item>Negist Ethiopia</item>
+        <item>Nicolás Fabián Fermín</item>
+        <item>Nilda Callañaupa Álvarez</item>
+        <item>Nomvuselelo LadyPeace Mavundla, Xolile Hazel Thembeka Ndlovu</item>
+        <item>Nongnuch Manatsawiphavee (Su Di Mo)</item>
+        <item>Odilon Merino Morales</item>
+        <item>Omba Arts Trust</item>
+        <item>Otabek Karomativich Mukimov</item>
+        <item>Phathisiwe Ngcobo, Tholani Mchunu</item>
+        <item>Phupu Sherpa</item>
+        <item>Pocabia Etacore, Celestina Etacore</item>
+        <item>Pokuttya Folk Art</item>
+        <item>Qasab-Kutch Craftswomen\'s Producer Co. Ltd.</item>
+        <item>Radjab Khayotov</item>
+        <item>Rado Herivonona Ambinintsoa</item>
+        <item>Ramona De Disla, Maria Infante, Ecolastica Valera Muñoz</item>
+        <item>Ramu Devraj Harijan</item>
+        <item>Rangina Hamidi</item>
+        <item>Rasuljon Mirzaakhmedov</item>
+        <item>Reinel Mendoza Montalbo</item>
+        <item>Roksolana Skilska (Stefanyshyn)</item>
+        <item>Rosmery Pacheco</item>
+        <item>Ruth Abimana</item>
+        <item>Santosh Kumar Rathi</item>
+        <item>Saturnino Oncebay Pariona and Vilma Oncebay Pariona</item>
+        <item>Seokham Keomanivong</item>
+        <item>Serge Jolimeau</item>
+        <item>Shavkiddin Kamalov</item>
+        <item>Soubandith Lattanavong</item>
+        <item>Sunghee Kim</item>
+        <item>Thembi Dlamini</item>
+        <item>Tiala Neufeld</item>
+        <item>Toyin Folorunso</item>
+        <item>Traditional Arts and Ethnology Centre</item>
+        <item>Tribal Home</item>
+        <item>UNRWA Sulafa Embroidery Centre</item>
+        <item>Ujjwal Shrestha</item>
+        <item>Valris Valentin and William Adjété Wilson</item>
+        <item>Veomanee Douangdala and Sykai Phonethilade</item>
+        <item>Victor Huáman Gutiérrez</item>
+        <item>William Lopez Arnachez and Olga Mercedes Siosi Epiayu</item>
+        <item>Ya-Lei Chiang</item>
+        <item>Yahaya Kabore</item>
+        <item>Yeuh-Mei Lan</item>
+        <item>Yusupkhan Samatkhanov</item>
+        <item>Zarina Kendjaeva</item>
+        <item>Zhanyl Sharshembieva</item>
+    </string-array>
+</resources>
