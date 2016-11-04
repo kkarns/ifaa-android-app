@@ -22,7 +22,7 @@ On every artist profile, there will be a button for sale slips. If a visitor has
 ![screenshots](image1.png)  
  
 #Credits
-Written by Kevin Karns & Luke Karns, with a lot of help from training classes at Lynda.
+Written by Luke Karns (Mandela International Magnet School, Inspire SF protégé) & Kevin Karns, with a lot of help from training classes at Lynda.
 
 Find Kevin on:
 
@@ -38,9 +38,7 @@ For more on the International Folk Art Market:
 
 Additional Credits:
 
-•	Rahul Patel, co-mentor, co-developer on the iOS platform in Swift, a parallel effort.
-
-•	Luke Karns, Mandela International Magnet School, Inspire SF protégé.
+•	Rahul Patle, co-mentor, co-developer on the iOS platform in Swift, a parallel effort.
 
 •	Hilary Kilpatric, IFAA Associate Director of Artist Development and Social Impact and mentor. 
 
