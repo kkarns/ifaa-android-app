@@ -1,6 +1,7 @@
 # ifaa-android-app
 Android app for International Folk Art Market
-Initial test code for a standalone mobile app to assist in the market experience at the International Folk Art Market in Santa Fe, NM in July.
+
+Initial test code for a standalone mobile app to assist in the market experience at the International Folk Art Market in Santa Fe, NM each July.
 #Goal
 To provide visitors with an app that gives information they want to know about artist coming to the International Folk Art Market. Additional Features may include a guide around the market. All of this will be available freely on a touch of a button from a smartphone application.
 #Design
